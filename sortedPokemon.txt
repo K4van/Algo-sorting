@@ -1,0 +1,100 @@
+Charmander#4#Fire#Water#Lizard Pokemon#0.6#8.5#Blaze
+Squirtle#7#Water#Electric#Tiny Turtle Pokemon#0.5#9.0#Torrent
+Weedle#13#Bug#Fire#Hairy Bug Pokemon#0.3#3.2#Shield Dust
+Rattata#19#Normal#Fighting#Mouse Pokemon#0.3#3.5#Run Away
+Pikachu#25#Electric#Ground#Mouse Pokemon#0.4#6.0#Static
+Sandslash#28#Ground#Water#Mouse Pokemon#1.0#29.5#Sand Veil
+Jigglypuff#39#Normal#Steel#Balloon Pokemon#0.5#5.5#Cute Charm
+Zubat#41#Poison#Psychic#Bat Pokemon#0.8#7.5#Inner Focus
+Meowth#52#Normal#Fighting#Scratch Cat Pokemon#0.4#4.2#Pickup
+Psyduck#54#Water#Electric#Duck Pokemon#0.8#19.6#Damp
+Growlithe#58#Fire#Rock#Puppy Pokemon#0.7#19.0#Intimidate
+Poliwag#60#Water#Electric#Tadpole Pokemon#0.6#12.4#Water Absorb
+Machop#66#Fighting#Psychic#Superpower Pokemon#0.8#19.5#Guts
+Tentacool#72#Water#Electric#Jellyfish Pokemon#0.9#45.5#Clear Body
+Geodude#74#Rock#Grass#Rock Pokemon#0.4#20.0#Rock Head
+Magnemite#81#Electric#Ground#Magnet Pokemon#0.3#6.0#Magnet Pull
+Seel#86#Water#Electric#Sea Lion Pokemon#1.1#90.0#Thick Fat
+Gastly#92#Ghost#Dark#Gas Pokemon#1.3#0.1#Levitate
+Exeggcute#102#Grass#Fire#Egg Pokemon#0.4#2.5#Chlorophyll
+Exeggutor#103#Grass#Fire#Coconut Pokemon#2.0#120.0#Chlorophyll
+Cubone#104#Ground#Water#Lonely Pokemon#0.4#6.5#Rock Head
+Rhyhorn#111#Ground#Water#Spikes Pokemon#1.0#115.0#Lightning Rod
+Magmar#126#Fire#Water#Spitfire Pokemon#1.3#44.5#Flame Body
+Magikarp#129#Water#Electric#Fish Pokemon#0.9#10.0#Swift Swim
+Lapras#131#Water#Electric#Transport Pokemon#2.5#220.0#Water Absorb
+Eevee#133#Normal#Fighting#Evolution Pokemon#0.3#6.5#Adaptability
+Snorlax#143#Normal#Fighting#Sleeping Pokemon#2.1#460.0#Immunity
+Moltres#146#Fire#Water#Flame Pokemon#2.0#60.0#Pressure
+Dratini#147#Dragon#Ice#Dragon Pokemon#1.8#3.3#Shed Skin
+Mew#151#Psychic#Bug#New Species Pokemon#0.4#4.0#Synchronize
+Chikorita#152#Grass#Fire#Leaf Pokemon#0.9#6.4#Overgrow
+Cyndaquil#155#Fire#Water#Fire Mouse Pokemon#0.6#7.9#Blaze
+Totodile#158#Water#Electric#Big Jaw Pokemon#0.6#9.5#Torrent
+Hoothoot#163#Flying#Electric#Owl Pokemon#0.7#21.2#Insomnia
+Togepi#175#Fairy#Steel#Spike Ball Pokemon#0.3#1.5#Serene Grace
+Mareep#179#Electric#Ground#Wool Pokemon#0.6#7.8#Static
+Hoppip#187#Grass#Flying#Cottonweed Pokemon#0.4#0.5#Chlorophyll
+Murkrow#198#Dark#Fairy#Darkness Pokemon#0.5#2.1#Insomnia
+Wobbuffet#202#Psychic#Bug#Patient Pokemon#1.3#28.5#Shadow Tag
+Dunsparce#206#Normal#Ground#Land Snake Pokemon#1.5#14.0#Serene Grace
+Scizor#212#Bug#Fire#Pincer Pokemon#1.8#118.0#Technician
+Shuckle#213#Bug#Fire#Mold Pokemon#0.6#20.5#Sturdy
+Teddiursa#216#Normal#Fighting#Little Bear Pokemon#0.6#8.8#Pickup
+Slugma#218#Fire#Rock#Lava Pokemon#0.7#35.0#Magma Armor
+Swinub#220#Ice#Ground#Pig Pokemon#0.4#6.5#Oblivious
+Stantler#234#Normal#Fighting#Deer Pokemon#1.4#71.2#Intimidate
+Miltank#241#Normal#Fighting#Milk Pokemon#1.2#75.5#Thick Fat
+Larvitar#246#Rock#Grass#Rock Skin Pokemon#0.6#72.0#Guts
+Lugia#249#Psychic#Dark#Diving Pokemon#5.2#216.0#Pressure
+Torchic#255#Fire#Water#Chick Pokemon#0.4#2.5#Blaze
+Mudkip#258#Water#Electric#Mud Fish Pokemon#0.4#7.6#Torrent
+Wingull#278#Water#Electric#Seagull Pokemon#0.6#9.5#Keen Eye
+Ralts#280#Psychic#Bug#Feeling Pokemon#0.4#6.6#Synchronize
+Gardevoir#282#Psychic#Poison#Embrace Pokemon#1.6#48.4#Synchronize
+Skitty#300#Normal#Fighting#Kitten Pokemon#0.6#11.0#Cute Charm
+Aron#304#Steel#Ground#Iron Armor Pokemon#0.4#60.0#Sturdy
+Trapinch#328#Ground#Bug#Ant Pit Pokemon#0.7#15.0#Hyper Cutter
+Chimecho#358#Psychic#Ghost#Wind Chime Pokemon#0.6#1.0#Levitate
+Bagon#371#Dragon#Ice#Rock Head Pokemon#0.6#42.1#Rock Head
+Beldum#374#Steel#Ground#Iron Ball Pokemon#0.6#95.2#Clear Body
+Turtwig#387#Grass#Fire#Tiny Leaf Pokemon#0.4#10.2#Overgrow
+Chimchar#390#Fire#Water#Chimp Pokemon#0.5#6.2#Blaze
+Piplup#393#Water#Electric#Penguin Pokemon#0.4#5.2#Torrent
+Bidoof#399#Normal#Fighting#Plump Mouse Pokemon#0.5#20.0#Simple
+Shinx#403#Electric#Ground#Flash Pokemon#0.5#9.5#Rivalry
+Pachirisu#417#Electric#Ground#EleSquirrel Pokemon#0.4#3.9#Run Away
+Drifloon#425#Ghost#Dark#Balloon Pokemon#0.4#1.2#Aftermath
+Riolu#447#Fighting#Psychic#Emanation Pokemon#0.7#20.2#Inner Focus
+Lucario#448#Fighting#Psychic#Aura Pokemon#1.2#54.0#Justified
+Snover#459#Grass#Fire#Frost Tree Pokemon#1.0#50.5#Snow Warning
+Weavile#461#Dark#Fighting#Sharp Claw Pokemon#0.7#34.0#Pickpocket
+Glaceon#471#Ice#Fairy#Fresh Snow Pokemon#0.8#25.9#Snow Cloak
+Froslass#478#Ghost#Steel#Snow Land Pokemon#1.3#26.3#Snow Cloak
+Venipede#543#Bug#Poison#Centipede Pokemon#0.4#5.3#Poison Point
+Sandile#551#Ground#Dark#Desert Croc Pokemon#0.7#15.2#Moxie
+Minccino#572#Normal#Fighting#Chinchilla Pokemon#0.4#5.8#Technician
+Litwick#607#Ghost#Fire#Candle Pokemon#0.3#3.1#Flame Body
+Axew#610#Dragon#Fairy#Tusk Pokemon#0.6#18.0#Rivalry
+Froakie#656#Water#Electric#Bubble Frog Pokemon#0.3#7.0#Torrent
+Furfrou#676#Normal#Fighting#Poodle Pokemon#0.6#9.4#Fur Coat
+Espurr#677#Psychic#Fairy#Restraint Pokemon#0.3#3.5#Keen Eye
+Phantump#708#Ghost#Grass#Stump Pokemon#0.4#7.0#Natural Cure
+Rowlet#722#Grass#Fire#Grass Quill Pokemon#0.3#1.5#Overgrow
+Litten#725#Fire#Water#Fire Cat Pokemon#0.4#4.3#Blaze
+Popplio#728#Water#Electric#Sea Lion Pokemon#0.4#7.5#Torrent
+Toxapex#748#Water#Electric#Brutal Star Pokemon#0.7#13.5#Regenerator
+Grookey#810#Grass#Fire#Chimp Pokemon#0.3#5.0#Overgrow
+Scorbunny#813#Fire#Water#Rabbit Pokemon#0.3#4.5#Blaze
+Sobble#816#Water#Electric#Water Lizard Pokemon#0.3#4.0#Torrent
+Rookidee#821#Flying#Electric#Tiny Bird Pokemon#0.2#1.8#Keen Eye
+Corvisquire#822#Flying#Electric#Raven Pokemon#0.8#16.0#Unnerve
+Eldegoss#830#Grass#Fire#Cotton Bloom Pokemon#0.5#2.5#Cotton Down
+Wooloo#831#Normal#Fighting#Sheep Pokemon#0.6#6.0#Run Away
+Yamper#835#Electric#Ground#Puppy Pokemon#0.3#13.5#Ball Fetch
+Toxtricity#849#Electric#Ground#Punk Pokemon#1.2#40.0#Punk Rock
+Cufant#878#Steel#Ground#Copperderm Pokemon#1.2#100.0#Sheer Force
+Dreepy#885#Dragon#Ice#Lingering Pokemon#0.5#2.0#Infiltrator
+Zacian#888#Fairy#Steel#Warrior Pokemon#2.8#110.0#Intrepid Sword
+Zarude#893#Dark#Fighting#Rogue Monkey Pokemon#1.8#70.0#Leaf Guard
+Calyrex#898#Psychic#Bug#King Pokemon#1.1#7.7#Unnerve
